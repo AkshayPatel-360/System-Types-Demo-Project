@@ -51,8 +51,6 @@ public class AIPlayer : MonoBehaviour
     {
         Debug.Log(NewName);
     }
-
-
     [ReflectionTarget]
     public void Wait()
     {
